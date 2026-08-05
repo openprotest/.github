@@ -32,9 +32,11 @@ Pro-test includes a wide range of tools and utilities designed for system admini
 - MAC address lookup
 - DHCP client
 - NTP client
-- Website health check
+- VNC client
 - SNMP and WMI polling
 - SSH and telnet client
+- WinRM remote shell
+- Website health check
 
 #### **Network monitoring**
 - Network topology
