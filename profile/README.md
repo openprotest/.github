@@ -33,6 +33,8 @@ Pro-test includes a wide range of tools and utilities designed for system admini
 - DHCP client
 - NTP client
 - VNC client
+- RDP client
+- RustDesk client
 - SNMP and WMI polling
 - SSH and telnet client
 - WinRM remote shell
